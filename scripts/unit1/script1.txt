@@ -1,0 +1,168 @@
+# Understanding the Research Process
+
+## Research Workflow
+
+Hello everyone, I am very excited to begin our first module, Understanding the Research Process. To start things off, we will discuss research workflow.
+
+I think about research projects in six main steps. To start, you need to come up with an effective research question. Each field has their own ways of approaching this task. Secondly, reviewing the literature is a ubiqutous task across dispciplines, so there a bunch of tools that make this task easier. Thirdly, analyzing the problem using theory is another domain specific task. Fourthly, testing your analysis is a major component of this course and we will use R to do it. Fifth step is to intrepret results and drawing coclusions -- another field specific task. And lastly, communicating the finding of your research project with the world.
+
+As you may have noticed, numbers one, three, and five are very domain-specific, and each field will approach those questions differently. Therefore, I will leave those up to you. Numbers two, four, and six are where we will focus our attention. We will begin with a literature review, then discuss how to use R to load and clean data, perform data analysis, create plots, and more. Finally, we will discuss how to present your results on the web or in PDF.
+
+Understanding the Research Process.
+research workflow.
+1. Research question 
+2. Literature review 
+3. Theory analysis 
+4. Testing analysis 
+5. Interpreting results 
+6. Communicating findings.
+Steps 1, 3, 5
+Steps 2, 4, and 6:
+- Literature review.
+- Using R: load, clean data, analyze, plot.
+- Presenting results: static html or PDF.
+
+
+==============================
+
+## Example Paper
+
+Introduce the example paper, it's a custom article I wrote, "Growth Path
+Comparison of China and Brazil," to learn markdown, embedding images,
+creating citations, and making plots. We'll also learn to publish the
+article online and convert it into a professional PDF. 
+
+==============================
+
+# Understating the Resarch Process
+
+## Surveying the Literature
+
+Now let's turn towards the literature review process. There are four main steps involved in conducting a literature review. Firstly, you need to locate the articles you wish to read. Next, you should organize them in a reference manager. Then, you must read the articles. While reading may seem tedious, there are more efficient methods to approach this task. Lastly, you should take notes to incorporate into your review.
+
+====
+
+## Search
+
+First of all, how do you search for your papers? To start, consult with your advisor or an expert in the field. They will point you in the right direction and provide guidance in the early stages. Then, make use of your library resources. They offer free resources and have access to expensive databases and research repositories. Another important step is to read review articles. Someone has already done the work for you, so it would be a mistake not to utilize it. Additionally, consider reading primer articles, which are helpful if you are new to a field, and consider grabbing a textbook for foundational knowledge. 
+
+Next, consider using Scopus and Web of Science. These are subscription-based services that are commonly accessible through universities. They are peer-reviewed repositories, ensuring the reliability of the articles on their platforms. Google Scholar is another valuable resource, but it is important to verify the quality of the work. ArXiv, popularized during the COVID pandemic, allows for rapid communication among scientists and does not require a lengthy review process for publication.
+
+Moving on to Elicit, it is an AI tool that can assist in locating the first 15 papers on a topic and summarize popular articles. Lastly, Beals List is a repository of predatory journals that publish articles for a fee. If your article is found on this list, it is not worth reading.
+
+### Teleprompter Notes
+
+---
+
+- Consult with advisor/expert for guidance.
+- Library resources 
+- Read review articles 
+- Primer articles
+- Textbooks
+- Scopus & Web of Science 
+- Google Scholar 
+- ArXiv 
+- Elicit 
+- Beals List 
+
+
+==============================
+
+## Reference Managemt
+
+You have collected a lot of papers, but where do you put them? In a reference manager, of course. There are many different options, such as Mendeley and RefWorks, but one that truly stands out is Zotero. Zotero is amazing, and I highly recommend it. It is open source, free, has numerous extensions, and can connect to many different apps, including ResearchRabbit. ResearchRabbit takes your Zotero library and finds related papers, builds a network, and helps you expand it. If you ever feel stuck and can't find anything new, maybe give ResearchRabbit a try.
+
+====
+
+## Reading
+
+Once you have everything in your reference manager, the next step is to read the papers. While this can be time-consuming and tedious, there are ways to make it easier. Here's a helpful tip - you don't have to read the entire paper from start to finish. Start by reading the abstract, as it usually contains all the necessary information for you to decide whether to keep or discard the paper. If you want more information, read the conclusion, which provides a summary of the authors' main points. Review any graphics and tables for results and visual representations of the paper's content.
+
+With a large number of papers to go through, prioritize those that align most closely with your research goals. Utilize tools like Zotero to help manage the process. Speechify is a game changer for reading papers aloud, making it easier to focus and stay on track. Investing in the premium version is worthwhile. ARIA, an integration with Zotero available on GitHub, allows for language processing and querying within your library, making it easier to find and summarize papers.
+
+Another useful tool is ChatGPT, which recently released a 4.0 model and a Mac app. It is powerful, user-friendly, and effective for completing tasks efficiently.
+
+
+### Teleprompter Notes
+
+---
+
+Read abstracts 
+Read conclusions 
+Review graphics/tables 
+Prioritize papers
+Zotero 
+Speechify 
+ARIA 
+ChatGPT 4.0 
+
+
+==============================
+
+## Note Taking
+
+Reading is great, but it's only half the battle. You must eventually produce a written manuscript, so taking notes is essential. As you read, note important and relevant points, and always link to the source. Keep your notes concise, as scientific communication values brevity. Make them purposeful, because you're preparing to write a literature review, and ensure they are contextual and interrelated, as you're ultimately telling a story.
+
+There are many tools to make note-taking easier. Zotero allows you to take notes and export them to your preferred text editors. My favorite is Google Docs. I take all my notes for small to medium-sized projects in Google Docs, then use JetGPT to summarize and clean them up, producing a rough draft of my intended content.
+
+For those unfamiliar with it, Markdown is a way to write text without worrying about formatting, focusing solely on content creation. A different program can handle formatting later. For very large projects, such as a PhD dissertation or a master's thesis, consider using Obsidian. Obsidian is a knowledge management database that allows you to take interconnected notes and efficiently map them. It's a great tool and highly recommended.
+
+
+1. Note important points 
+2. Keep notes concise 
+3. Make notes purposeful 
+4. Ensure notes are contextual and interrelated 
+
+- **Zotero** 
+- Google Docs 
+- Markdown 
+- Obsidian 
+
+
+==============================
+
+## Reading the papers
+
+It can be time-consuming and tedious, but there are ways to streamline the process. First, read the abstract; it typically contains all the essential information. If you need more detail, read the conclusion, which summarizes the entire paper. Graphics and tables can also provide a quick insight into the results. You don't need to read all 100-200 papers; prioritize those that align with your research goals. Tools like Zotero for reference management and Speechify, which reads papers aloud, can be very helpful. Another useful tool is ARIA, an integration with Zotero, which connects a large language model to your library, allowing you to ask questions and summarize papers. Lastly, ChatGPT can be invaluable for summarizing and drafting content.
+
+==============================
+
+## Walk Through
+
+Go into the browser and show case the things you talked about.
+
+==============================
+
+## Testing your Analysis
+
+After completing the literature review process, you will have data to analyze. While we will spend time learning how to analyze data in R, I wanted to provide a brief overview of the process. The graphic I am sharing is from the book "R for Data Science" by Hadley Wickham, a valuable resource for expanding R analysis skills. The analysis process involves importing, cleaning, tidying, and preparing the data for analysis. You then ask questions, propose hypotheses, and test them through transforming, visualizing, and modeling the data. This iterative process leads to results that you may want to communicate to the public. While we will focus on learning how to use R in the first part of this process, I also want to briefly mention the tools we use for communication.
+
+Import, clean, tidy,
+and prepare data
+Ask questions,
+propose hypotheses.
+Test hypotheses
+transforming, visualizing,
+and modeling data.
+iterative process
+communication.
+
+
+
+==============================
+
+## Communication of findings
+
+Communicating the findings can be challenging due to the various approaches to consider. Initially, we will use R to create plots and tables, as it is central to the ecosystem. It is important to mention Git and GitHub, as they are valuable tools for code collaboration and backup maintenance. For direct writing, we will use Markdown, a simple markup language that allows for focus on content rather than formatting. This can later be combined with R code in Quarto to prepare documents for both print and web. LaTeX is essential for more intricate formatting and document preparation for publication, as many journals offer LaTeX templates. Overleaf is a great platform for editing LaTeX documents, with excellent collaboration features and integration with GitHub. ArXiv is a useful platform for sharing work, particularly for those with a .edu email address. Building an interactive shiny dashboard in R can enhance data sharing with others. Google Suite is beneficial for collaborating with non-technical peers, as it includes tools such as Google Docs, Google Slides, and Google Drive that are widely known. With this introduction complete, let's delve into reproducible research.
+
+R
+Git
+GitHub
+Markdown
+Quarto
+LaTeX
+Overleaf
+ArXiv
+Shiny dashboard
+Google Suite
+==============================

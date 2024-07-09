@@ -1,0 +1,19 @@
+"0","```r
+clusbootreg(formula=lexptot ~ dfmfd+ sexhead+ agehead+ educhead+ lnland+ vaccess + pcirr+ rice+ wheat+ milk+ oil+ egg, data=data_ex_3, cluster=data_ex_3$villid, reps=1000)
+
+```"
+"1","                Estimate   Std. Error
+(Intercept)  7.450058082 0.1904345640
+dfmfd        0.090513951 0.0214379251
+sexhead     -0.058557844 0.0395069574
+agehead      0.003368354 0.0006477954
+educhead     0.049831983 0.0070759161
+lnland       0.175624152 0.0389937257
+vaccess     -0.017716133           NA
+pcirr        0.160449179 0.0765973778
+rice         0.003997629 0.0126716442
+wheat       -0.039129136 0.0358476408
+milk         0.020549632 0.0084446299
+oil          0.009992665 0.0057103980
+egg          0.116439561 0.0873296979
+"

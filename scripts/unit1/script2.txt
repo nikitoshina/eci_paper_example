@@ -1,0 +1,62 @@
+# The Pillars of Reproducible Research
+
+Now let's pivot to the topicic of reproducibility in research. 
+
+This idea that we should be able to replicate other people's work has been on a raise in recent few years.
+
+## The Challenge of Reproducibility
+
+Good research must be systematic and reproducible.
+
+Karl Popper, one of the 20th century's most influential philosophers of science, put it this way “Non-reproducible single occurrences are of no significance to science." 
+
+The replication crisis is an ongoing methodological crisis in which the results of many scientific studies are difficult or impossible to reproduce. This became especially apparent when in 2016 Nature (the scientific journal) asked 1500 scientists and found that 70% couldn't replicate others' experiments; over 50% couldn't replicate their own.
+
+Must be systematic and reproducible.
+Karl Popper
+Non-reproducible occurrences are insignificant to science.
+Replication Crisis
+Ongoing methodological issue.
+Nature 2016 Survey: 
+70% replicate others'
+50% replicate own.
+
+## What Makes Research Reproducible
+
+So, what makes a scientific study reproducible?
+
+There are multiple ways to consider this problem, which is complex and has multiple components. The two main areas where many problems often arise are data and analysis. I will use the table below to explain different terms related to reproducibility. The 2 by 2 matrix consists of two rows: Same Analysis, Different Analysis (referring to methodology) and Same Data, Different Data (meaning if new sample will yield same conclusions). In terms of reproducibility, the minimum requirement is using the same data and analysis to achieve consistent results. If we use the same data but different analysis techniques (such as trying a different model), we are testing for robustness. Testing the analysis on different data allows for checking replicability, or the ability to replicate results with new data. Achieving the same results with different analysis and data is considered the gold standard of generalizable research.
+
+Notice how reproducibility seems to be easiest and most logical one. It is almost impossible to imagine that any research can be Non-reproducible! But yet here we are. Nonetheless, there has been a great development with more journals requiring data and code to be submitted along side the manuscript.
+
+
+## Literatre Programming & Example
+
+An important technology for creating reproducible research is Literate programming. It combines text and code chunks to create a seamless integration of human-readable explanations and machine-executable code. The code is used to load data, generate graphs, and run models, while the text provides context and interprets the results. This approach allows researchers to produce documents that are readable by both humans and machines.
+
+1. **Collect Data:** Gather data such as survey responses, macroeconomic indicators, or experiment results.
+
+2. **Data Processing:** Develop separate code to clean the collected data, addressing inconsistencies, missing values, and irrelevant entries. Document all assumptions and processes.
+
+3. **Analytical Data:** Use the cleaned data for analysis. Keep both the raw collected data and processed analytical data.
+
+4. **Analysis Code:** Analyze the data using the code. Document this analysis code thoroughly for publication.
+
+5. **Computational Results:** Generate computational results that highlight key findings.
+
+6. **Presentation Code:** Write code to create visualizations, charts, and graphs: 
+
+    - **Figures:** 
+    - **Tables:** 
+    - **Summaries:**
+
+7. **Text:** 
+
+8. **Article:** Combine all outputs into an article.
+
+By following these steps, you can get a rough idea of everything needed for your project and how to separate each step.
+
+## Conclusions
+
+Reproducibility is not only a goal, but a standard for credible science. One of the earliest implementations of literate programming was Sweave, which combined LaTeX and R for documentation and programming. Since then, the field has evolved with the introduction of RMarkdown, Jupyter Notebooks, Python Markdown, etc. The latest development in this area is Quarto, which we will cover shortly.
+

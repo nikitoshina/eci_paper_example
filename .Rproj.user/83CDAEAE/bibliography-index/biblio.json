@@ -1,0 +1,562 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/S1574-0684(05)01013-0",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1574068405010130",
+            "author": [
+                {
+                    "family": "Benhabib",
+                    "given": "Jess"
+                },
+                {
+                    "family": "Spiegel",
+                    "given": "Mark M."
+                }
+            ],
+            "id": "benhabibChapter13Human2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "DOI: 10.1016/S1574-0684(05)01013-0",
+            "page": "935-966",
+            "publisher": "Elsevier",
+            "title": "Chapter 13 Human Capital and Technology Diffusion",
+            "type": "chapter",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1016/j.regsciurbeco.2008.07.002",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S016604620800104X",
+            "author": [
+                {
+                    "family": "Bronzini",
+                    "given": "Raffaello"
+                },
+                {
+                    "family": "Piselli",
+                    "given": "Paolo"
+                }
+            ],
+            "container-title": "Regional Science and Urban Economics",
+            "id": "bronziniDeterminantsLongrunRegional2009",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "187-199",
+            "title": "Determinants of long-run regional productivity with geographical spillovers: The role of R&D, human capital and public infrastructure",
+            "title-short": "Determinants of long-run regional productivity with geographical spillovers",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "DOI": "10.1162/0034653043125194",
+            "URL": "https://direct.mit.edu/rest/article/86/4/883-895/57511",
+            "author": [
+                {
+                    "family": "Griffith",
+                    "given": "Rachel"
+                },
+                {
+                    "family": "Redding",
+                    "given": "Stephen"
+                },
+                {
+                    "family": "Reenen",
+                    "given": "John Van"
+                }
+            ],
+            "container-title": "Review of Economics and Statistics",
+            "id": "griffithMappingTwoFaces2004",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        11
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "883-895",
+            "title": "Mapping the Two Faces of R&D: Productivity Growth in a Panel of OECD Industries",
+            "title-short": "Mapping the Two Faces of R&D",
+            "type": "article-journal",
+            "volume": "86"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hanushek",
+                    "given": "Eric A."
+                },
+                {
+                    "family": "Ludger Woessmann"
+                }
+            ],
+            "id": "hanushekKnowledgeCapitalNations2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        4,
+                        24
+                    ]
+                ]
+            },
+            "note": "MAG ID: 583520093 S2ID: 373740c51442a34edb0e2c20acaba08ddd551fe6",
+            "title": "The knowledge capital of nations: Education and the economics of growth",
+            "title-short": "The knowledge capital of nations",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1111/j.1468-0084.2004.00083.x",
+            "author": [
+                {
+                    "family": "Guellec",
+                    "given": "Dominique"
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Pottelsberghe de la Potterie",
+                    "given": "Bruno"
+                }
+            ],
+            "container-title": "Oxford Bulletin of Economics and Statistics",
+            "id": "guellecProductivityGrowthInstitutional2004",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "note": "DOI: 10.1111/j.1468-0084.2004.00083.x MAG ID: 2044603577 S2ID: ed3d61c80b6584fb9facf044270480d9ec0b2266",
+            "page": "353-378",
+            "title": "From r&d to productivity growth: Do the institutional settings and the source of funds of r&d matter?",
+            "title-short": "From r&d to productivity growth",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.1016/0014-2921(94)00100-E",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/001429219400100E",
+            "author": [
+                {
+                    "family": "Coe",
+                    "given": "David T."
+                },
+                {
+                    "family": "Helpman",
+                    "given": "Elhanan"
+                }
+            ],
+            "container-title": "European Economic Review",
+            "id": "coeInternationalSpillovers1995",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "859-887",
+            "title": "International R&D spillovers",
+            "type": "article-journal",
+            "volume": "39"
+        },
+        {
+            "DOI": "10.1016/j.jpolmod.2008.04.007",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0161893808000392",
+            "author": [
+                {
+                    "family": "Oliner",
+                    "given": "Stephen D."
+                },
+                {
+                    "family": "Sichel",
+                    "given": "Daniel E."
+                },
+                {
+                    "family": "Stiroh",
+                    "given": "Kevin J."
+                }
+            ],
+            "container-title": "Journal of Policy Modeling",
+            "id": "olinerExplainingProductiveDecade2008",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "633-673",
+            "title": "Explaining a productive decade",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "DOI": "10.1257/jep.22.1.25",
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jep.22.1.25",
+            "author": [
+                {
+                    "dropping-particle": "van",
+                    "family": "Ark",
+                    "given": "Bart"
+                },
+                {
+                    "family": "O’Mahony",
+                    "given": "Mary"
+                },
+                {
+                    "family": "Timmer",
+                    "given": "Marcel P"
+                }
+            ],
+            "container-title": "Journal of Economic Perspectives",
+            "id": "vanarkProductivityGapEurope2008",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "25-44",
+            "title": "The Productivity Gap between Europe and the United States: Trends and Causes",
+            "title-short": "The Productivity Gap between Europe and the United States",
+            "type": "article-journal",
+            "volume": "22"
+        },
+        {
+            "DOI": "10.1257/aer.100.5.2031",
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.100.5.2031",
+            "author": [
+                {
+                    "family": "Comin",
+                    "given": "Diego"
+                },
+                {
+                    "family": "Hobijn",
+                    "given": "Bart"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "cominExplorationTechnologyDiffusion2010",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        12,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "2031-2059",
+            "title": "An Exploration of Technology Diffusion",
+            "type": "article-journal",
+            "volume": "100"
+        },
+        {
+            "DOI": "10.1007/s10887-008-9035-5",
+            "URL": "http://link.springer.com/10.1007/s10887-008-9035-5",
+            "author": [
+                {
+                    "family": "Comin",
+                    "given": "Diego"
+                },
+                {
+                    "family": "Hobijn",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Rovito",
+                    "given": "Emilie"
+                }
+            ],
+            "container-title": "Journal of Economic Growth",
+            "id": "cominTechnologyUsageLags2008",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "237-256",
+            "title": "Technology usage lags",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "DOI": "10.1016/j.respol.2004.09.006",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733304001179",
+            "author": [
+                {
+                    "family": "Furman",
+                    "given": "Jeffrey L."
+                },
+                {
+                    "family": "Hayes",
+                    "given": "Richard"
+                }
+            ],
+            "container-title": "Research Policy",
+            "id": "furmanCatchingStandingStill2004a",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        11
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1329-1354",
+            "title": "Catching up or standing still?",
+            "type": "article-journal",
+            "volume": "33"
+        },
+        {
+            "DOI": "10.1073/pnas.0900943106",
+            "author": [
+                {
+                    "family": "Hidalgo",
+                    "given": "César A."
+                },
+                {
+                    "family": "Hausmann",
+                    "given": "Ricardo"
+                }
+            ],
+            "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+            "id": "hidalgoBuildingBlocksEconomic2009",
+            "issue": "26",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        6,
+                        30
+                    ]
+                ]
+            },
+            "note": "ARXIV_ID: 0909.3890 DOI: 10.1073/pnas.0900943106 MAG ID: 1966402429 PMCID: 2705545 PMID: 19549871 S2ID: 9243415e37862dbe901d96a713544bace9db9c9c",
+            "page": "10570-10575",
+            "title": "The building blocks of economic complexity",
+            "type": "article-journal",
+            "volume": "106"
+        },
+        {
+            "DOI": "10.1257/aer.20130954",
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20130954",
+            "author": [
+                {
+                    "family": "Feenstra",
+                    "given": "Robert C."
+                },
+                {
+                    "family": "Inklaar",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Timmer",
+                    "given": "Marcel P."
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "feenstraNextGenerationPenn2015",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "3150-3182",
+            "title": "The Next Generation of the Penn World Table",
+            "type": "article-journal",
+            "volume": "105"
+        },
+        {
+            "author": [
+                {
+                    "family": "Piketty",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Zucman",
+                    "given": "Gabriel"
+                },
+                {
+                    "family": "Blanchet",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Chancel",
+                    "given": "Lucas"
+                },
+                {
+                    "family": "Flores",
+                    "given": "Ignacio"
+                },
+                {
+                    "family": "Morgan",
+                    "given": "Marc"
+                },
+                {
+                    "family": "Alvaredo",
+                    "given": "Facundo"
+                },
+                {
+                    "family": "Atkinson",
+                    "given": "Anthony B."
+                },
+                {
+                    "family": "Bauluz",
+                    "given": "Luis"
+                },
+                {
+                    "family": "Fisher-Post",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Garbinti",
+                    "given": "Bertrand"
+                },
+                {
+                    "family": "Goupille-Lebret",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Martínez-Toledano",
+                    "given": "Clara"
+                },
+                {
+                    "family": "Neef",
+                    "given": "Theresa"
+                },
+                {
+                    "family": "Robilliard",
+                    "given": "Anne-Sophie"
+                },
+                {
+                    "family": "Saez",
+                    "given": "Emmanuel"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Li"
+                }
+            ],
+            "id": "Piketty2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "This version: February 27, 2024",
+            "title": "Distributional national accounts guidelines: Methods and concepts used in the world inequality database",
+            "title-short": "Distributional national accounts guidelines",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "(UNDP)",
+                    "given": "United Nations Development Programme"
+                }
+            ],
+            "id": "UNDP2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "publisher": "United Nations Development Programme",
+            "publisher-place": "New York",
+            "title": "Human development report 2021/2022: Uncertain times, unsettled lives: Shaping our future in a transforming world",
+            "title-short": "Human development report 2021/2022",
+            "type": "article-journal"
+        },
+        {
+            "URL": "[https://atlas.cid.harvard.edu/](https://atlas.cid.harvard.edu/)",
+            "author": [
+                {
+                    "dropping-particle": "for",
+                    "family": "International Development at Harvard University",
+                    "given": "Center"
+                }
+            ],
+            "id": "HarvardAtlas",
+            "issued": {
+                "date-parts": []
+            },
+            "title": "The atlas of economic complexity",
+            "type": ""
+        },
+        {
+            "DOI": "10.7910/DVN/XTAQMC",
+            "URL": "https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/XTAQMC",
+            "author": [
+                {
+                    "family": "University",
+                    "given": "The Growth Lab At Harvard"
+                }
+            ],
+            "id": "university2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "publisher": "Harvard Dataverse",
+            "title": "Growth projections and complexity rankings",
+            "type": ""
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

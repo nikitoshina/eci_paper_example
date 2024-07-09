@@ -1,0 +1,8 @@
+- source: project
+  quarto-pub:
+    - id: ee1197a9-20c1-4454-aabd-8f82182de5af
+      url: 'https://bridges-and-barriers.quarto.pub/growth-path-comparison-of-china-and-brazil'
+- source: index.qmd
+  quarto-pub:
+    - id: 881cf18f-0cac-4d6b-a69c-a86152ded534
+      url: 'https://nikitoshina.quarto.pub/growth-comparison-of-china-and-brazil-a82e'
