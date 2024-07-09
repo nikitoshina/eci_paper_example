@@ -1,7 +1,6 @@
 ```{r}
 library(tidyverse)
 source("styles.R")
-library(shiny)
 theme_set(theme_Publication() + theme(legend.title = element_blank()))
 ```
 
